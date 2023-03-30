@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h3>Hey there, I'm Adda Anshusree Pragyna 👋🏼<br>A Sofware Engineer 👩‍💻<br>Currently studying in Vishnu Institute of Technology 👩🏼‍🎓<br><br>How to reach me:  20pa1a0503@vishnu.edu.in<br>aanshusree@gmail.com ✍🏼</h3>
+<h4>Hey there, I'm Adda Anshusree Pragyna 👋🏼<br>A Sofware Engineer 👩‍💻<br>Currently studying in Vishnu Institute of Technology 👩🏼‍🎓<br><br>How to reach me:  20pa1a0503@vishnu.edu.in<br>aanshusree@gmail.com ✍🏼</h4>
 
 
 # 🌐 Connect with me:
