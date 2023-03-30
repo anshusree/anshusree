@@ -2,7 +2,7 @@
 <h3>Hey there, I'm Adda Anshusree Pragyna 👋🏼<br>A Sofware Engineer 👩‍💻<br>Currently studying in Vishnu Institute of Technology 👩🏼‍🎓<br><br>How to reach me:  20pa1a0503@vishnu.edu.in<br>aanshusree@gmail.com ✍🏼</h3>
 
 
-<h3 align="left">Connect with me:</h3>
+## 🌐 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/anshusree pragyna adda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshusree pragyna adda" height="30" width="40" /></a>
 <a href="https://instagram.com/ansh_uuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ansh_uuu" height="30" width="40" /></a>
